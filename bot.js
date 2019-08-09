@@ -113,8 +113,6 @@ async function kripr(msg) {
 client.on('message', msg => {
     if (msg.content === 'creeper') {
         kripr(msg);
-    } else if(msg.content === "kys") {
-        msg.channel.send("TAK SI NASER", {tts: true});
     }
 });
 
