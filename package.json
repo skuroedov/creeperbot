@@ -1,0 +1,23 @@
+{
+  "name": "creeperbot",
+  "version": "0.0.1",
+  "description": "Creeper, aww man",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skuroedov/creeperbot.git"
+  },
+  "author": "skuroedov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skuroedov/creeperbot/issues"
+  },
+  "homepage": "https://github.com/skuroedov/creeperbot#readme"
+}
